@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arsen
 =============================================================================================================================
 
-Java developer
+WEB developer
 --------------
 
 I am a multiple winner of regional and regional programming contests. And in 2021 we took 9th place in the "ICPC Regional Competition in Kyrgyzstan 2021" and received a ticket to " Final ICPC Northern Eurasia 2022 ". Participated in many online Olympiads.I have good knowledge in Java and Spring Framework. And Python, its frameworks and environment development. 
@@ -10,8 +10,8 @@ I am an aspiring web developer whose journey in the IT world started at the age 
 
 *   🌍  I'm based in Bishkek
 *   ✉️  You can contact me at [kenjegulov2002@gmail.com](mailto:kenjegulov2002@gmail.com)
-*   🚀  I'm currently working on [BuySell](http://github.com/KenArsen/BuySell)
-*   🧠  I'm learning Java
+*   🚀  I'm currently working on [Store](https://github.com/KenArsen/store)
+*   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on interesting projects as a developer
 *   ⚡  I use tabs instead of spaces
 

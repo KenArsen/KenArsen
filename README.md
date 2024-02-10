@@ -11,7 +11,7 @@ many online Olympiads. I have good knowledge in Python and Django Framework and 
 I am an aspiring web developer whose journey in the IT world started at the age of 16-17 where I started to decide sports tasks and participate in sports olympiads. Through this experience, I found that I have a real passion for web development, especially for the back-end. As a child, I always had curious about how websites work and I wondered "how do they actually work?" Fueled by my curiosity, I decided to test my skills by asking myself, "Can I create something like?" The loud answer was: “Yes, I can!”. Now I am in search of interesting vacancies.
 
 *   🌍  I'm based in Bishkek
-*   ✉️  You can contact me at [kenjegulov2002@gmail.com](mailto:kenjegulov2002@gmail.com)
+*   ✉️  You can contact me at (mailto:kenzhegulov2002@gmail.com)
 *   🚀  I'm currently working on [Store](https://github.com/KenArsen/store)
 *   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on interesting projects as a developer

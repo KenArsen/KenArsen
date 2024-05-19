@@ -4,11 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 WEB developer
 --------------
 
-I am a multiple winner of regional and regional programming contests. And in 2021 we took 9th place in the "ICPC
-Regional Competition in Kyrgyzstan 2021" and received a ticket to " Final ICPC Northern Eurasia 2022 ". Participated in
-many online Olympiads. I have good knowledge in Python and Django Framework and its environment development.
+Results-oriented backend developer with extensive experience developing and studying APIs, creating and maintaining server-side logic. High level of knowledge of various programming languages ​​and technologies. Seeking leadership in a dynamic company that values ​​hard work, dedication and improving technical skills.
 
-I am an aspiring web developer whose journey in the IT world started at the age of 16-17 where I started to decide sports tasks and participate in sports olympiads. Through this experience, I found that I have a real passion for web development, especially for the back-end. As a child, I always had curious about how websites work and I wondered "how do they actually work?" Fueled by my curiosity, I decided to test my skills by asking myself, "Can I create something like?" The loud answer was: “Yes, I can!”. Now I am in search of interesting vacancies.
+
 
 *   🌍  I'm based in Bishkek
 *   ✉️  You can contact me at [kenzhegulov2002@gmail.com](mailto:kenzhegulov2002@gmail.com)

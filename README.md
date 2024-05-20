@@ -10,7 +10,7 @@ Results-oriented backend developer with extensive experience developing and stud
 
 *   🌍  I'm based in Bishkek
 *   ✉️  You can contact me at [kenzhegulov2002@gmail.com](mailto:kenzhegulov2002@gmail.com)
-*   🚀  I'm currently working on [Store](https://github.com/KenArsen/store)
+*   🚀  I'm currently working on [Wiser](https://wiser.inclusivetec.com/) and [Al Bukhari](https://albukhari.inclusivetec.com/)
 *   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on interesting projects as a developer
 *   ⚡  I use tabs instead of spaces
